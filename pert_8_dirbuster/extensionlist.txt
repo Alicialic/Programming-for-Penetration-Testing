@@ -1,0 +1,8 @@
+php
+html
+jpg
+jpeg
+png
+txt
+css
+js
